@@ -1,0 +1,6 @@
+{
+  "name": "Sky Hopper",
+  "description": "A charming, 2012-inspired retro arcade game where you fly a paper plane, collect coins, avoid cheerful obstacles, and unlock fun custom skins and accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
